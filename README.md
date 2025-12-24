@@ -49,21 +49,17 @@ I am building my skillset from the ground up, avoiding "black box" tools in favo
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Computational Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamad-moutee-chanta&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-moutee-chanta&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="400" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-moutee-chanta&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-moutee-chanta&theme=algolia" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamad-moutee-chanta&theme=algolia" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamad-moutee-chanta&theme=algolia" width="45%" />
 </div>
 
 ---
