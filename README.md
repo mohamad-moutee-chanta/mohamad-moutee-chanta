@@ -3,7 +3,7 @@
   <h3 align="center">Bioengineering Student | Aspiring Bioinformatician</h3>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=339AF0&center=true&vCenter=true&width=550&lines=Bridging+Wet-Lab+Biology+with+Code;From+Raw+Sequences+to+Biological+Insight;Developing+Algorithms+from+Scratch;Erasmus+Scholar+%40+Germany" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=339AF0&center=true&vCenter=true&width=550&lines=Bridging+Wet-Lab+Biology+with+Code;From+Raw+Sequences+to+Biological+Insight;Developing+Algorithms+from+Scratch" alt="Typing SVG" />
   </a>
 </div>
 
